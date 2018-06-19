@@ -18,7 +18,7 @@ public class Person
     private double groesse;
     private double gewicht;
     
-    // Konstruktoren
+    // Konstruktoren für die Person
     public Person() {
         System.out.println("Hallo, Hier ist der Personen-Konstruktor!");
         this.name = "UNBEKANNT";
